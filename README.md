@@ -1,5 +1,5 @@
 # Coffee Sales Analysis Project
-Objective
+#Objective -
 The goal of this project is to analyze the sales data of a coffee shop and develop a dynamic, interactive dashboard to provide valuable insights. The dashboard will highlight key metrics, trends, and summaries, aiding in business decision-making.
 
 Procedure
